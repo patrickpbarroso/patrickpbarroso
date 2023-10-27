@@ -4,7 +4,7 @@ Graduando no bacharelado de Sistemas de Informação da UFVJM, em Diamantina, Mi
 Minhas áreas de interesse são a pesquisa operacional, incluindo modelagem e implementação de modelos matemáticos, machine learning e desenvolvimento web. 
           
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,django)](https://skillicons.dev)
 
 # Redes sociais
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-barroso-a1a094195/) 
