@@ -6,7 +6,10 @@ Minhas áreas de interesse são a pesquisa operacional, incluindo modelagem e im
 ## Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,django)](https://skillicons.dev)
 
-# Redes sociais
+## Redes sociais
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](patrick.plbarroso@gmail.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-barroso-a1a094195/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/patrick.barroso/) 
+
+
 
