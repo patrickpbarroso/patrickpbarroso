@@ -7,7 +7,7 @@ Minhas áreas de interesse são a pesquisa operacional, incluindo modelagem e im
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,linux,git)](https://skillicons.dev)
 
 ## Aprendendo
-[![My Skills](https://skillicons.dev/icons?i=ros,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,django,mongodb,docker)](https://skillicons.dev)
 
 ## Redes sociais
 [<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](patrick.plbarroso@gmail.com) 
