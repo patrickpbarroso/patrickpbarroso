@@ -4,7 +4,7 @@ Graduando no bacharelado de Sistemas de Informação da UFVJM, em Diamantina, Mi
 Minhas áreas de interesse são a pesquisa operacional, incluindo modelagem e implementação de modelos matemáticos, machine learning e desenvolvimento web. 
           
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,linux,git,mysql)](https://skillicons.dev)
 
 ## Aprendendo
 [![My Skills](https://skillicons.dev/icons?i=ros,django,mongodb,docker)](https://skillicons.dev)
